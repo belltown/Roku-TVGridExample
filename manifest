@@ -1,0 +1,13 @@
+title=TV Grid Example
+subtitle=TV Listings Example Grid Format
+splash_screen_hd=pkg:/images/WhatsOnFocusCoverHD.png
+splash_screen_sd=pkg:/images/WhatsOnFocusCoverHD.png
+splash_color=#ebebeb
+mm_icon_focus_hd=pkg:/images/WhatsOnFocusCoverHD.png
+mm_icon_side_hd=pkg:/images/WhatsOnFocusCoverHD.png
+mm_icon_focus_sd=pkg:/images/SDLarge.png
+mm_icon_side_sd=pkg:/images/WhatsOnFocusCoverHD.png
+major_version=1
+minor_version=0
+build_version=00
+# Dummy last line (required)

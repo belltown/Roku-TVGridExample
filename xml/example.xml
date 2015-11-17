@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TVListings>
+	<TimeInfo>
+		<StartTimeUTC>2014-08-10T01:00:00Z</StartTimeUTC>
+		<EndTimeUTC>2014-08-10T04:00:00Z</EndTimeUTC>
+	</TimeInfo>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>4.1</ChannelNumber>
+			<ChannelName>KOMODT</ChannelName>
+			<ChannelLogo>pkg:/xml/abc.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>KOMO 4 News Saturday 6:00pm</ProgramName>
+				<ProgramDescripton>Michelle Esteban, Russ Bowen, Shannon O'Donnell, Tim Lewis.</ProgramDescripton>
+				<ProgramAttributes>CC New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Wheel of Fortune</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Jeopardy!</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Marvel's Agents of S.H.I.E.L.D.</ProgramName>
+				<ProgramDescripton>Garrett and Triplett help search for the Clairvoyant, but face the wrath of Deathlok.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>4.2</ChannelNumber>
+			<ChannelName>KOMODT2</ChannelName>
+			<ChannelLogo>pkg:/xml/abc.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>The Crossing Guard</ProgramName>
+				<ProgramDescripton>For six excruciating years, Freddy Gale (Jack Nicholson) has fantasized about taking bloody revenge on John Booth (David Morse), the drunk driver responsible for the traffic accident that killed his daughter. On the last day of Booth's prison sentence, a grief-stricken Gale informs his ex-wife, Mary (Anjelica Huston), of his intentions, then follows Booth to a mobile home in the suburbs. There, with hands shaking, Gale draws his gun -- and steps into a dark and uncertain future.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Indian Runner</ProgramName>
+				<ProgramDescripton>After getting into trouble with the law, violence-prone Frank Roberts (Viggo Mortensen) seeks help from his brother Joe (David Morse), an even-tempered policeman. Frank hopes to start fresh, and his brother has faith that he can do it. So Joe agrees to let Frank stay -- despite the admonitions of his wife, Maria (Valeria Golino), who would rather not have Frank in the house. And though he performs well at first, Frank's inner turmoil eventually erupts, creating chaos in their once tranquil home.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>5.1</ChannelNumber>
+			<ChannelName>KINGDT</ChannelName>
+			<ChannelLogo>pkg:/xml/nbc.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>NBC Nightly News</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>KING 5 News</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Laura McKenzie's Traveler</ProgramName>
+				<ProgramDescripton>Hong Kong: exotic markets of Kowloon; Victoria Harbour; Victoria Peak.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Northwest Backroads</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Dateline NBC</ProgramName>
+				<ProgramDescripton>After a woman goes missing, authorities suspect the man responsible was reenacting a horror movie.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>5.2</ChannelNumber>
+			<ChannelName>KINGDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/nbc.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Food Rush</ProgramName>
+				<ProgramDescripton>Recipes, cooking tips and life on the go with Ryan Scott.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>My Family Recipe Rocks!</ProgramName>
+				<ProgramDescripton>Cooks and homemade specialties from around the country; host Joey Fatone.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Steven and Chris</ProgramName>
+				<ProgramDescripton>A tour of a glam basement; Sicilian broccoli pasta; hot parenting topics.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Food Rush</ProgramName>
+				<ProgramDescripton>A Turkish restaurant; a Puerto Rican hot spot; chili cheese fries.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Sweet Retreats</ProgramName>
+				<ProgramDescripton>Chicago's charm and character; shopping, top-notch entertainment venues and restaurants.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>7.1</ChannelNumber>
+			<ChannelName>K26ICD</ChannelName>
+			<ChannelLogo>pkg:/xml/cbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>CBS Evening News</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>KIRO 7 Eyewitness News at 6:30PM</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Steve Raible's Scouting Report</ProgramName>
+				<ProgramDescripton>What to watch for in this week's Seahawks game. Host Steve Raible.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Insider</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Unforgettable</ProgramName>
+				<ProgramDescripton>Carrie and Al investigate the murder of a championship boxer.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>7.1</ChannelNumber>
+			<ChannelName>KIRODT</ChannelName>
+			<ChannelLogo>pkg:/xml/cbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>CBS Evening News</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>KIRO 7 Eyewitness News at 6:30PM</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Steve Raible's Scouting Report</ProgramName>
+				<ProgramDescripton>What to watch for in this week's Seahawks game. Host Steve Raible.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Insider</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Unforgettable</ProgramName>
+				<ProgramDescripton>Carrie and Al investigate the murder of a championship boxer.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>7.1</ChannelNumber>
+			<ChannelName>KIROLD5</ChannelName>
+			<ChannelLogo>pkg:/xml/cbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>CBS Evening News</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>KIRO 7 Eyewitness News at 6:30PM</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Steve Raible's Scouting Report</ProgramName>
+				<ProgramDescripton>What to watch for in this week's Seahawks game. Host Steve Raible.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Insider</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Unforgettable</ProgramName>
+				<ProgramDescripton>Carrie and Al investigate the murder of a championship boxer.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>7.2</ChannelNumber>
+			<ChannelName>K26ICD2</ChannelName>
+			<ChannelLogo>pkg:/xml/cbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Coroner Creek</ProgramName>
+				<ProgramDescripton>A gunfighter (Randolph Scott) loses his beloved in a robbery and hunts the man (George Macready) to blame, who is living off the loot.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Ride Lonesome</ProgramName>
+				<ProgramDescripton>Bounty hunter Ben Brigade (Randolph Scott) is on his way to California with his prisoner, Billy John (James Best), who is unaware that Brigade is really after his brother, Frank (Lee Van Cleef). The pair stop at a frontier post and and find themselves defending the poorly guarded settlement from a Native American assault. When the widow Mrs. Lane (Karen Steele) decides to accompany them to Santa Cruz, Brigade enlists the aid of two outlaws who may have a hidden agenda of their own.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>7.2</ChannelNumber>
+			<ChannelName>KIROLD6</ChannelName>
+			<ChannelLogo>pkg:/xml/cbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Coroner Creek</ProgramName>
+				<ProgramDescripton>A gunfighter (Randolph Scott) loses his beloved in a robbery and hunts the man (George Macready) to blame, who is living off the loot.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Ride Lonesome</ProgramName>
+				<ProgramDescripton>Bounty hunter Ben Brigade (Randolph Scott) is on his way to California with his prisoner, Billy John (James Best), who is unaware that Brigade is really after his brother, Frank (Lee Van Cleef). The pair stop at a frontier post and and find themselves defending the poorly guarded settlement from a Native American assault. When the widow Mrs. Lane (Karen Steele) decides to accompany them to Santa Cruz, Brigade enlists the aid of two outlaws who may have a hidden agenda of their own.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>7.2</ChannelNumber>
+			<ChannelName>KIRODT2</ChannelName>
+			<ChannelLogo>pkg:/xml/cbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Coroner Creek</ProgramName>
+				<ProgramDescripton>A gunfighter (Randolph Scott) loses his beloved in a robbery and hunts the man (George Macready) to blame, who is living off the loot.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Ride Lonesome</ProgramName>
+				<ProgramDescripton>Bounty hunter Ben Brigade (Randolph Scott) is on his way to California with his prisoner, Billy John (James Best), who is unaware that Brigade is really after his brother, Frank (Lee Van Cleef). The pair stop at a frontier post and and find themselves defending the poorly guarded settlement from a Native American assault. When the widow Mrs. Lane (Karen Steele) decides to accompany them to Santa Cruz, Brigade enlists the aid of two outlaws who may have a hidden agenda of their own.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>9.1</ChannelNumber>
+			<ChannelName>KCTSDT</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>90</RuntimeMins>
+				<ProgramName>50s and 60s Rock Rewind (My Music)</ProgramName>
+				<ProgramDescripton>Archival footage brings to life the rock and pop scene of the 1950s and 1960s.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>90</RuntimeMins>
+				<ProgramName>Return to Downton Abbey</ProgramName>
+				<ProgramDescripton>A look back at &quot;Downton Abbey&quot; with the cast and crew; host Susan Sarandon.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>9.2</ChannelNumber>
+			<ChannelName>KCTSDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Desafío Vertical</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Patrulla de Altamar</ProgramName>
+				<ProgramDescripton>La persistencia de Kate sobre una investigación sobre residuos, salva a una comunidad.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Comisario Rex</ProgramName>
+				<ProgramDescripton>Las aventuras de un perro policial.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>9.3</ChannelNumber>
+			<ChannelName>KCTSDT3</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Primal Grill With Steven Raichlen</ProgramName>
+				<ProgramDescripton>Brazilian coconut shrimp kebabs; garlic halibut; asparagus rafts; snapper in banana leaves.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Cooking With Nick Stellino</ProgramName>
+				<ProgramDescripton>Grilled shrimp with stewed peppers; salad with tuna, tomatoes, olives and capers.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Coastal Cooking With John Shields</ProgramName>
+				<ProgramDescripton>Sauteed blackfish with crayfish rice; seafood gumbo; bananas Foster.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Sara's Weeknight Meals</ProgramName>
+				<ProgramDescripton>Fettuccine with rock shrimp, corn and jalapeno; grilled mahi mahi with panella and chickpeas.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Pati's Mexican Table</ProgramName>
+				<ProgramDescripton>Shrimp cocktail Pacifico; Rodrigo-style fish; flourless chocolate pecan cake.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Lidia's Italy in America</ProgramName>
+				<ProgramDescripton>Shrimp scampi; crab cakes; baked clams oreganata.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>10</ChannelNumber>
+			<ChannelName>CKVU</ChannelName>
+			<ChannelLogo>pkg:/xml/city.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Murdoch Mysteries</ProgramName>
+				<ProgramDescripton>Harry Houdini becomes a suspect in a robbery-homicide case; Dr. Ogden's sister comes to visit.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Out There With Melissa DiMarco</ProgramName>
+				<ProgramDescripton>Melissa is sent around the world for a James Bond special.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Out There With Melissa DiMarco</ProgramName>
+				<ProgramDescripton>The cast of &quot;Twilight&quot; gives Melissa bad advice on a baby shower gift.</ProgramDescripton>
+				<ProgramAttributes>CC New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Murdoch Mysteries</ProgramName>
+				<ProgramDescripton>Murdoch investigates the death of a young woman working as a high-class prostitute.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>11.1</ChannelNumber>
+			<ChannelName>KSTWDT</ChannelName>
+			<ChannelLogo>pkg:/xml/cw.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Rules of Engagement</ProgramName>
+				<ProgramDescripton>Jeff tries to solve a problem that Audrey has with a neighbor, but he ends up making it worse.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Rules of Engagement</ProgramName>
+				<ProgramDescripton>Jeff and Audrey opt for separate bedrooms when his snoring keeps her awake.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Middle</ProgramName>
+				<ProgramDescripton>Sue wants a big celebration for her birthday; Frankie learns that Mike has been caring for a cat.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Middle</ProgramName>
+				<ProgramDescripton>Brick takes a newspaper delivery job in order to earn money for night vision goggles.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>CSI: Miami</ProgramName>
+				<ProgramDescripton>The team investigates when a man is boiled alive; Julia spins out of control.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>13.1</ChannelNumber>
+			<ChannelName>KCPQDT</ChannelName>
+			<ChannelLogo>pkg:/xml/fox.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Big Bang Theory</ProgramName>
+				<ProgramDescripton>Sheldon teaches Leonard about football; kite-fighting threatens Howard and Raj's friendship.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Big Bang Theory</ProgramName>
+				<ProgramDescripton>Penny learns that Leonard does not celebrate birthdays, so she plans a surprise party.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Modern Family</ProgramName>
+				<ProgramDescripton>Claire thinks Phil's new business partner is blatantly inappropriate, but Phil doesn't notice.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Modern Family</ProgramName>
+				<ProgramDescripton>After selling a house to Mitch and Cameron's friends, Claire and Phil plan a celebratory dinner.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Brooklyn Nine-Nine</ProgramName>
+				<ProgramDescripton>Jake vows to get revenge when a detective from Special Crimes takes over his nearly solved case.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Brooklyn Nine-Nine</ProgramName>
+				<ProgramDescripton>Unhappy Amy must wear a costume to go on patrol with Charles.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>13.1</ChannelNumber>
+			<ChannelName>KCPQLD</ChannelName>
+			<ChannelLogo>pkg:/xml/fox.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Big Bang Theory</ProgramName>
+				<ProgramDescripton>Sheldon teaches Leonard about football; kite-fighting threatens Howard and Raj's friendship.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Big Bang Theory</ProgramName>
+				<ProgramDescripton>Penny learns that Leonard does not celebrate birthdays, so she plans a surprise party.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Modern Family</ProgramName>
+				<ProgramDescripton>Claire thinks Phil's new business partner is blatantly inappropriate, but Phil doesn't notice.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Modern Family</ProgramName>
+				<ProgramDescripton>After selling a house to Mitch and Cameron's friends, Claire and Phil plan a celebratory dinner.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Brooklyn Nine-Nine</ProgramName>
+				<ProgramDescripton>Jake vows to get revenge when a detective from Special Crimes takes over his nearly solved case.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Brooklyn Nine-Nine</ProgramName>
+				<ProgramDescripton>Unhappy Amy must wear a costume to go on patrol with Charles.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>16.1</ChannelNumber>
+			<ChannelName>KONGDT</ChannelName>
+			<ChannelLogo>pkg:/xml/nbc.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Made in Hollywood</ProgramName>
+				<ProgramDescripton>Megan Fox; Helen Mirren; Sarah Wayne Callies; Ryan Guzman; Nathan Kress; Briana Evigan.</ProgramDescripton>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Access Hollywood</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Law &amp; Order: Special Victims Unit</ProgramName>
+				<ProgramDescripton>Detectives hunt for the sadist who tortured a senile old woman.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>16.2</ChannelNumber>
+			<ChannelName>KONGDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/nbc.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Made in Hollywood</ProgramName>
+				<ProgramDescripton>Megan Fox; Helen Mirren; Sarah Wayne Callies; Ryan Guzman; Nathan Kress; Briana Evigan.</ProgramDescripton>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Access Hollywood</ProgramName>
+				<ProgramDescription/>
+				<ProgramAttributes>CC HD New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Law &amp; Order: Special Victims Unit</ProgramName>
+				<ProgramDescripton>Detectives hunt for the sadist who tortured a senile old woman.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>20.1</ChannelNumber>
+			<ChannelName>KTBWDT</ChannelName>
+			<ChannelLogo>pkg:/xml/tbn.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Hour of Power</ProgramName>
+				<ProgramDescripton>Join Pastor Bobby Schuller each week for interviews with people whose lives have been transformed.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Billy Graham Classic Crusades</ProgramName>
+				<ProgramDescripton>Classic crusades held decades ago are released to a new generation.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Love Takes Wing</ProgramName>
+				<ProgramDescripton>A widowed doctor (Sarah Jones) tries to help residents of a frontier town where a mysterious illness claims several lives.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>20.2</ChannelNumber>
+			<ChannelName>KTBWDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/tbn.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Live With Passion!</ProgramName>
+				<ProgramDescripton>Father Cedric Pisegna shares stories, Scripture and personal experience to inspire faith.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Christ in Prophecy</ProgramName>
+				<ProgramDescripton>A focus on the prophetic significance of national and international events.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>End of the Age With Rev. Irvin Baxter</ProgramName>
+				<ProgramDescripton>The prophecies of the Bible explained.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Jewish Voice With Jonathan Bernis</ProgramName>
+				<ProgramDescripton>Rabbi Jonathan Bernis teaches about the Jewish roots of Christianity and last-days Bible prophecy.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Sid Roth's It's Supernatural!</ProgramName>
+				<ProgramDescripton>Investigative reporter Sid Roth verifies the supernatural.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Jewish Jesus</ProgramName>
+				<ProgramDescripton>Messianic Rabbi Schneider helps people connect the Old and New Testaments.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>20.3</ChannelNumber>
+			<ChannelName>KTBWDT3</ChannelName>
+			<ChannelLogo>pkg:/xml/tbn.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Music Videos</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>JCTV Top 10 Video Show</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Night of Joy</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>1musicvillage</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>20.4</ChannelNumber>
+			<ChannelName>KTBWDT4</ChannelName>
+			<ChannelLogo>pkg:/xml/tbn.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Acontecimientos</ProgramName>
+				<ProgramDescripton>Conciertos y festivales de fe e inspiración para llenar tu vida de esperanza y optimismo.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Primera Fila</ProgramName>
+				<ProgramDescripton>Películas con un mensaje diferente e inspirador.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>20.5</ChannelNumber>
+			<ChannelName>KTBWDT5</ChannelName>
+			<ChannelLogo>pkg:/xml/tbn.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Little Women</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Lassie</ProgramName>
+				<ProgramDescripton>A brave collie dog helps her human friends.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>90</RuntimeMins>
+				<ProgramName>A Dog of Flanders</ProgramName>
+				<ProgramDescripton>Nello (Jesse James) is a lonely orphan boy who lives in poverty with his grandfather, Jehan (Jack Warden). Like his mother before him, Nello possesses a talent for drawing and dreams of becoming a great artist. Though mostly alone, Nello forms a bond when he nurses a battered Bouvier back to health. The grateful dog, named Patrasche, quickly becomes his greatest friend. When he gets older, Nello (Jeremy James Kissner) befriends Michel (Jon Voight), an eccentric artist.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Spunky's Camping Adventure</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>22.1</ChannelNumber>
+			<ChannelName>KZJODT</ChannelName>
+			<ChannelLogo>pkg:/xml/mytv.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>SAF3</ProgramName>
+				<ProgramDescripton>When Eriksson helps Kacie in the search for her father, he finds himself fighting a fire.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Bones</ProgramName>
+				<ProgramDescripton>The team investigates the death of a dancer who was about to audition for a dance competition show.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Bones</ProgramName>
+				<ProgramDescripton>Brennan and Booth investigate what appear to be charred human remains on an electrical fence.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>22.2</ChannelNumber>
+			<ChannelName>KZJODT2</ChannelName>
+			<ChannelLogo>pkg:/xml/mytv.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Big Bang Theory</ProgramName>
+				<ProgramDescripton>Sheldon teaches Leonard about football; kite-fighting threatens Howard and Raj's friendship.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Big Bang Theory</ProgramName>
+				<ProgramDescripton>Penny learns that Leonard does not celebrate birthdays, so she plans a surprise party.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Modern Family</ProgramName>
+				<ProgramDescripton>Claire thinks Phil's new business partner is blatantly inappropriate, but Phil doesn't notice.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Modern Family</ProgramName>
+				<ProgramDescripton>After selling a house to Mitch and Cameron's friends, Claire and Phil plan a celebratory dinner.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Brooklyn Nine-Nine</ProgramName>
+				<ProgramDescripton>Jake vows to get revenge when a detective from Special Crimes takes over his nearly solved case.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Brooklyn Nine-Nine</ProgramName>
+				<ProgramDescripton>Unhappy Amy must wear a costume to go on patrol with Charles.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>22.3</ChannelNumber>
+			<ChannelLogo>pkg:/xml/mytv.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>90</RuntimeMins>
+				<ProgramName>Follow That Dream</ProgramName>
+				<ProgramDescripton>Pop Kwimpel (Arthur O'Connell), son Toby (Elvis Presley) and their ragtag clan of adopted orphans wind up marooned on the side of the road in Florida, so they set up a makeshift home on the beach. Soon, uptight local bureaucrat H. Arthur King (Alan Hewitt) orders them off the land, but the state government doesn't back him up. An enraged King then sets out to get his way, using manipulative social worker Alisha Claypoole (Joanna Moore) as part of his scheme to evict the Kwimpels.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>90</RuntimeMins>
+				<ProgramName>Frankie and Johnny</ProgramName>
+				<ProgramDescripton>Habitual gambler and musician Johnny (Elvis Presley) performs at a riverboat casino on the Mississippi River, along with his girlfriend, Frankie (Donna Douglas). A rash of bad luck leads Johnny to a fortuneteller, who informs him of a redheaded good luck charm. Enter Nellie Bly (Nancy Kovack), the lover of Johnny's boss, whose presence coincides with a change in Johnny's luck. But Frankie grows jealous of Johnny's new acquaintance, and the conflict comes to a head during a masquerade ball.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>28.1</ChannelNumber>
+			<ChannelName>KBTCLD</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>50s &amp; 60s Party Songs (My Music)</ProgramName>
+				<ProgramDescripton>Pop songs and dance hits featuring original archival performances from the 1950s and 1960s.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>The Vicar of Dibley</ProgramName>
+				<ProgramDescripton>Geraldine turns down Christmas lunch offers to stay home and watch TV.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Being Poirot</ProgramName>
+				<ProgramDescripton>Behind-the-scenes and on-set footage with David Suchet; host Stanley Tucci.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>28.1</ChannelNumber>
+			<ChannelName>KBTCDT</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>50s &amp; 60s Party Songs (My Music)</ProgramName>
+				<ProgramDescripton>Pop songs and dance hits featuring original archival performances from the 1950s and 1960s.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>The Vicar of Dibley</ProgramName>
+				<ProgramDescripton>Geraldine turns down Christmas lunch offers to stay home and watch TV.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Being Poirot</ProgramName>
+				<ProgramDescripton>Behind-the-scenes and on-set footage with David Suchet; host Stanley Tucci.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>28.2</ChannelNumber>
+			<ChannelName>KBTCLD2</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Detective De Luca</ProgramName>
+				<ProgramDescripton>De Luca seeks the truth behind the stabbing death of a wealthy Fascist bachelor.</ProgramDescripton>
+				<ProgramAttributes>New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Full Frame</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>28.2</ChannelNumber>
+			<ChannelName>KBTCDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Detective De Luca</ProgramName>
+				<ProgramDescripton>De Luca seeks the truth behind the stabbing death of a wealthy Fascist bachelor.</ProgramDescripton>
+				<ProgramAttributes>New</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Full Frame</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>28.3</ChannelNumber>
+			<ChannelName>KBTCLD3</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Well Read</ProgramName>
+				<ProgramDescripton>Terry Tazioli discusses books with noted authors.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Legislative Review</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>The Impact</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Inside Olympia</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>28.3</ChannelNumber>
+			<ChannelName>KBTCDT3</ChannelName>
+			<ChannelLogo>pkg:/xml/pbs.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Well Read</ProgramName>
+				<ProgramDescripton>Terry Tazioli discusses books with noted authors.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Legislative Review</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>The Impact</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Inside Olympia</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.1</ChannelNumber>
+			<ChannelName>KWPXDT</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Law &amp; Order: Criminal Intent</ProgramName>
+				<ProgramDescripton>A celebrity scandal leaves a notorious gossip columnist dead.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Law &amp; Order: Criminal Intent</ProgramName>
+				<ProgramDescripton>A cheating couple disappear, leaving the jilted older wife to pick up the pieces.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Law &amp; Order: Criminal Intent</ProgramName>
+				<ProgramDescripton>A political martyr becomes a suspect in the shootings of people close to her.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.2</ChannelNumber>
+			<ChannelName>KWPXDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Animorphs</ProgramName>
+				<ProgramDescripton>Controllers are planning to unleash Kandrona-independent Yeerks.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Dear America</ProgramName>
+				<ProgramDescripton>A teenage girl grows up during the Civil War.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>The Famous Five</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Where on Earth Is Carmen Sandiego?</ProgramName>
+				<ProgramDescripton>Zack, Ivy and Carmen pursue Maelstrom who tries to frame Carmen for his theft.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Archie's Weird Mysteries</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Sherlock Holmes in the 22nd Century</ProgramName>
+				<ProgramDescripton>Holmes discovers a lab where Fenwick turns citizens into criminals.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.3</ChannelNumber>
+			<ChannelName>KWPXDT3</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Striking Distance</ProgramName>
+				<ProgramDescripton>Sgt. Tom Hardy (Bruce Willis) denounces his partner, Jimmy Detillo (Robert Pastorelli), for brutally interrogating a suspect. After Jimmy falls to his death from a bridge, Tom is transferred from homicide to the river rescue team. Two years later, the bodies of murdered young women begin turning up in the water -- all of whom were previously romantically linked to Tom. With the help of his new partner, Jo Christman (Sarah Jessica Parker), Tom sets out to find the killer.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Shattered Glass</ProgramName>
+				<ProgramDescripton>Young hotshot journalist Stephen Glass (Hayden Christensen) puts on a good show for his adoring editor, Michael Kelly (Hank Azaria), but admits deep insecurities to his fellow writer, Caitlin Avey (Chloë Sevigny). When Glass begins turning in outrageous stories, his popularity skyrockets, but rival journalist Charles Lane (Peter Sarsgaard) becomes suspicious as to their factual accuracy, and eventually discovers that Glass has been fabricating many of his sources.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.4</ChannelNumber>
+			<ChannelName>KWPXDT4</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Paid Programming</ProgramName>
+				<ProgramDescripton>Paid programming.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Free NutriBullet! Discover the secret to a longer, healthier life!</ProgramName>
+				<ProgramDescripton>Buy 1, get 1 Free! Learn how the NutriBullet can help you feel better than you have in years!</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Proactiv Plus clears acne faster for radiant skin</ProgramName>
+				<ProgramDescripton>All-New Proactiv Plus is our smartest, fastest, most effective system ever! By trusted GuthyRenker.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Paid Programming</ProgramName>
+				<ProgramDescripton>Paid programming.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Paid Programming</ProgramName>
+				<ProgramDescripton>Paid programming.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Arthritis pain?</ProgramName>
+				<ProgramDescripton>ATHRI-D improves joint health using all natural ingredients! Stop the pain today!</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.5</ChannelNumber>
+			<ChannelName>KWPXDT5</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Mally: Color Cosmetics</ProgramName>
+				<ProgramDescripton>Cosmetics from Mally Roncal.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>American West Jewelry</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.6</ChannelNumber>
+			<ChannelName>KWPXDT6</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Concierge Collection</ProgramName>
+				<ProgramDescripton>Experience the essentials of a collection that offers something for everyone and fits into any home.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Electronic Connection</ProgramName>
+				<ProgramDescripton>Latest in electronics technology.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Electronic Connection</ProgramName>
+				<ProgramDescripton>Latest in electronics technology.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>33.7</ChannelNumber>
+			<ChannelName>KWPXDT7</ChannelName>
+			<ChannelLogo>pkg:/xml/ion.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Fútbol Mexicano Primera División</ProgramName>
+				<ProgramDescripton>Desde el Estadio Nuevo Hidalgo en Pachuca, Hidalgo, México.</ProgramDescripton>
+				<ProgramAttributes>CC New Live</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>El Cartel de los Sapos</ProgramName>
+				<ProgramDescripton>Andrés &quot;Florecita&quot; López pasa varios años en el interior del cartel colombiano.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>42.1</ChannelNumber>
+			<ChannelName>KWDKDT</ChannelName>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Kenneth W. Hagin</ProgramName>
+				<ProgramDescripton>Bible based teaching.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Jay Sekulow</ProgramName>
+				<ProgramDescripton>Jay Sekulow discusses thought-provoking analysis.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>In Touch With Dr. Charles Stanley</ProgramName>
+				<ProgramDescripton>Truthfulness; building one's life upon the solid foundation of God's truth.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Manna-Fest With Perry Stone</ProgramName>
+				<ProgramDescripton>A prophetic and practical study of God's word with Perry Stone.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Dr. James Merritt</ProgramName>
+				<ProgramDescripton>Touching lives empowers Christians through the word of God.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>44.1</ChannelNumber>
+			<ChannelName>KFFVDT</ChannelName>
+			<ChannelLogo>pkg:/xml/azteca.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Health and Beauty Products</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>90</RuntimeMins>
+				<ProgramName>Paid Programming</ProgramName>
+				<ProgramDescripton>Paid programming.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Fishing With Ladin</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>44.2</ChannelNumber>
+			<ChannelName>KFFVDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/azteca.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Fútbol Mexicano Primera División</ProgramName>
+				<ProgramDescripton>Desde el Nuevo Estadio Corona en Torreón, Coahuila, México.</ProgramDescripton>
+				<ProgramAttributes>New Live</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>The 6th Day</ProgramName>
+				<ProgramDescripton>Cuando un hombre (Arnold Schwarzenegger) descubre que ha sido clonado ilegalmente, él debe aventajar a varios asesinos y proteger sus experimentos secretos.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>44.3</ChannelNumber>
+			<ChannelName>KFFVDT3</ChannelName>
+			<ChannelLogo>pkg:/xml/azteca.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>ATV Cantonese Night News</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>CCTV4 News</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>AAT Local News / ETTV TW News</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>The Million Star</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>44.4</ChannelNumber>
+			<ChannelName>KFFVDT4</ChannelName>
+			<ChannelLogo>pkg:/xml/azteca.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Wonderful Days</ProgramName>
+				<ProgramDescripton>A lawyer returns home after 14 years to his loving family.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>6000</EndSecs>
+				<RuntimeMins>70</RuntimeMins>
+				<ProgramName>Marriage Clinic, Love &amp; War</ProgramName>
+				<ProgramDescripton>Bringing couples together and reconcile with the help of the marriage counseling committee.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>6000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>80</RuntimeMins>
+				<ProgramName>Gag Concert</ProgramName>
+				<ProgramDescripton>DIsplaying the power of stand-up comedy.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>44.5</ChannelNumber>
+			<ChannelName>KFFVDT5</ChannelName>
+			<ChannelLogo>pkg:/xml/azteca.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Maverick</ProgramName>
+				<ProgramDescripton>Bart agrees to help the army get out of a stockade in which he was once imprisoned.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Maverick</ProgramName>
+				<ProgramDescripton>Bret tracks a girl to Central America.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Maverick</ProgramName>
+				<ProgramDescripton>Bret and Bart almost outsmart themselves when they try to swindle a clever crook.</ProgramDescripton>
+				<ProgramAttributes>CC</ProgramAttributes>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>46.3</ChannelNumber>
+			<ChannelName>KUSELD3</ChannelName>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Frances and Friends</ProgramName>
+				<ProgramDescripton>Current events from a biblical perspective. Hosted by Frances Swaggart.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Family Worship Center Service</ProgramName>
+				<ProgramDescripton>The church of Jimmy Swaggart Ministries.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>46.5</ChannelNumber>
+			<ChannelName>KUSELD5</ChannelName>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Jigsaw</ProgramName>
+				<ProgramDescripton>A pseudo-patriotic hate group sends a woman (Jean Wallace) to distract a special prosecutor (Franchot Tone) on its case.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Inside Music Row</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Sprockets &amp; Splices</ProgramName>
+				<ProgramDescripton>A showcase of independent short films.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>46.6</ChannelNumber>
+			<ChannelName>KUSELD6</ChannelName>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Hey Diddle Diddle</ProgramName>
+				<ProgramDescripton>A former popular student, now with a social anxiety disorder, faces his high school reunion.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Black Dawn 1</ProgramName>
+				<ProgramDescription/>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>5400</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Hey Diddle Diddle</ProgramName>
+				<ProgramDescripton>A former popular student, now with a social anxiety disorder, faces his high school reunion.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>5400</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Taste of Hunney</ProgramName>
+				<ProgramDescripton>The Hunny Pott on Hollywood Blvd. wants to create a fashion line to compete with national chains.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>9000</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Port City PD</ProgramName>
+				<ProgramDescripton>Former hot-shot officers tackle seemingly dead-end cases.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>9000</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Black Dawn 1</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>51.1</ChannelNumber>
+			<ChannelName>KUNSDT</ChannelName>
+			<ChannelLogo>pkg:/xml/univision.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>1800</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>La Familia Peluche</ProgramName>
+				<ProgramDescripton>Una familia que vive en una ciudad de peluche, enfrenta las dificultades de manera divertida.</ProgramDescripton>
+				<ProgramAttributes>HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>1800</StartSecs>
+				<EndSecs>3600</EndSecs>
+				<RuntimeMins>30</RuntimeMins>
+				<ProgramName>Noticiero Univisión: Fin de Semana</ProgramName>
+				<ProgramDescripton>Programa informativo con las noticias más actuales de nuestro mundo.</ProgramDescripton>
+				<ProgramAttributes>CC HD</ProgramAttributes>
+			</Program>
+			<Program>
+				<StartSecs>3600</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Hotel Todo Incluido</ProgramName>
+				<ProgramDescripton>Programa de comedia en donde diferentes personajes famosos llegan como invitados especiales.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Sábado Gigante</ProgramName>
+				<ProgramDescripton>Grupomanía; Banda Jerez de Marco Antonio Flores; resultados ADN; Camilo Blanes; Joe Harper.</ProgramDescripton>
+			</Program>
+		</ProgramList>
+	</Channel>
+	<Channel>
+		<ChannelData>
+			<ChannelNumber>51.2</ChannelNumber>
+			<ChannelName>KUNSDT2</ChannelName>
+			<ChannelLogo>pkg:/xml/univision.png</ChannelLogo>
+		</ChannelData>
+		<ProgramList>
+			<Program>
+				<StartSecs>0</StartSecs>
+				<EndSecs>7200</EndSecs>
+				<RuntimeMins>120</RuntimeMins>
+				<ProgramName>Six Weeks of Fear</ProgramName>
+				<ProgramDescripton>Una traductora de árabe es secuestrada por un grupo iraquí.</ProgramDescripton>
+			</Program>
+			<Program>
+				<StartSecs>7200</StartSecs>
+				<EndSecs>10800</EndSecs>
+				<RuntimeMins>60</RuntimeMins>
+				<ProgramName>Noticias MundoFox</ProgramName>
+				<ProgramDescription/>
+			</Program>
+		</ProgramList>
+	</Channel>
+</TVListings>
